@@ -7,7 +7,7 @@ export const History = () => {
             <ol className="list">
                 <li className="plus">
                     Salary
-                    <span>$1,000</span>
+                    <span>$2,000</span>
                     <button className="delete-btn">x</button>
                 </li>
                 <li className="minus">

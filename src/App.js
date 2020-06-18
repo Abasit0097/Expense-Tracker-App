@@ -10,7 +10,7 @@ import { AddTransaction } from './Components/AddTransaction';
 
 function App() {
   return (
-    <div>
+    <div className="appback">
       <Header/>
       <div className="container">
       <NetAmount/>

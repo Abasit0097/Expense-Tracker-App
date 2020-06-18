@@ -3,7 +3,7 @@ import React from 'react'
 export const Nature = () => {
     return (
         <div className="inc-exp-container">
-            <div>
+            <div className="income">
                 <h4>Income</h4>
                 <p className="money plus">
                     $0.00
