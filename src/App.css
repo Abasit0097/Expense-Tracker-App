@@ -98,7 +98,7 @@ input[type='number'] {
 
 .btn {
   cursor: pointer;
-  background-color: rgb(12, 241, 165);
+  background-color: rgb(83, 5, 28);
   box-shadow: var(--box-shadow);
   color: #fff;
   border: 0;
